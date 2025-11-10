@@ -1,0 +1,9 @@
+{
+  "user_agent": "Mozilla/5.0 (compatible; BitbashScraper/1.0; +https://bitbash.dev)",
+  "request_timeout": 15,
+  "max_results": 100,
+  "enrich_contacts": true,
+  "max_workers": 5,
+  "default_output_format": "csv",
+  "output_directory": "data/outputs"
+}
