@@ -1,0 +1,30 @@
+[
+  {
+    "Business Name": "Sunset Dental Group",
+    "Business Address": "1234 Sunset Blvd, Los Angeles, CA",
+    "Website": "http://sunsetdental.com",
+    "Phone": "+1 310-555-1234",
+    "Emails": [
+      "info@sunsetdental.com"
+    ],
+    "Facebook": "https://www.facebook.com/sunsetdentalgroup",
+    "Instagram": "https://www.instagram.com/sunsetdental",
+    "Twitter": "https://twitter.com/sunsetdental",
+    "LinkedIn": "https://www.linkedin.com/company/sunset-dental-group",
+    "TikTok": "N/A",
+    "YouTube": "https://www.youtube.com/channel/UC123abcXYZ"
+  },
+  {
+    "Business Name": "Oceanview Dentistry",
+    "Business Address": "456 Ocean Ave, Los Angeles, CA",
+    "Website": "http://oceanviewdentistry.com",
+    "Phone": "+1 310-555-5678",
+    "Emails": "N/A",
+    "Facebook": "N/A",
+    "Instagram": "N/A",
+    "Twitter": "N/A",
+    "LinkedIn": "N/A",
+    "TikTok": "N/A",
+    "YouTube": "N/A"
+  }
+]
