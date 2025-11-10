@@ -1,0 +1,10 @@
+[
+  {
+    "query": "dentists in Los Angeles",
+    "format": "csv"
+  },
+  {
+    "query": "coffee shops in New York",
+    "format": "json"
+  }
+]
